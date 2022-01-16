@@ -12,3 +12,7 @@ phpunit.xml
 .phpunit.result.cache
 wsl-init.log
 .backup/*
+/.idea
+/Homestead.yaml.bak
+ssh
+ssh.pub
